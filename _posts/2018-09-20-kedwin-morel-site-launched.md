@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kedwin Morel, Horrible Cop, Launches Site"
+title: "Kedwin Morel, Reflection, Launches Site"
 date: 2018-09-20
 ---
 
