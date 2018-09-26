@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kedwin Morel, Reflection, Launches Site"
+title: "Kedwin Morel, Reflection"
 date: 2018-09-20
 ---
 
