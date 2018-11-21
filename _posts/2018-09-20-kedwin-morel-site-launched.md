@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kedwin Morel, Reflection"
+title: Kedwin Morel, Reflection
 date: 2018-09-26
 ---
 
