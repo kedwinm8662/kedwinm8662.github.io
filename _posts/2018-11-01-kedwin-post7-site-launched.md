@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Kedwin Morel, Reflection
 date: 2018-11-01
 ---
