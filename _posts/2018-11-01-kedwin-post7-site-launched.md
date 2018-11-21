@@ -1,6 +1,6 @@
 ---
-lay0out: post
-title: "Kedwin Morel, Reflection"
+layout: post
+title: Kedwin Morel, Reflection
 date: 2018-11-01
 ---
 
