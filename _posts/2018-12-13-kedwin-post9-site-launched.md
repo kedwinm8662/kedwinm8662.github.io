@@ -6,3 +6,5 @@ date: 2018-11-29
 
 <h1> Flag Project - In Progress Reflection </h1>
 
+
+![My Flag](/images/flag.png)
